@@ -1,0 +1,15 @@
+C:\Users\55819\source\repos\pjemc\pjemc\bin\Debug\net6.0\pjemc.exe
+C:\Users\55819\source\repos\pjemc\pjemc\bin\Debug\net6.0\pjemc.deps.json
+C:\Users\55819\source\repos\pjemc\pjemc\bin\Debug\net6.0\pjemc.runtimeconfig.json
+C:\Users\55819\source\repos\pjemc\pjemc\bin\Debug\net6.0\pjemc.dll
+C:\Users\55819\source\repos\pjemc\pjemc\bin\Debug\net6.0\ref\pjemc.dll
+C:\Users\55819\source\repos\pjemc\pjemc\bin\Debug\net6.0\pjemc.pdb
+C:\Users\55819\source\repos\pjemc\pjemc\obj\Debug\net6.0\pjemc.csproj.AssemblyReference.cache
+C:\Users\55819\source\repos\pjemc\pjemc\obj\Debug\net6.0\pjemc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55819\source\repos\pjemc\pjemc\obj\Debug\net6.0\pjemc.AssemblyInfoInputs.cache
+C:\Users\55819\source\repos\pjemc\pjemc\obj\Debug\net6.0\pjemc.AssemblyInfo.cs
+C:\Users\55819\source\repos\pjemc\pjemc\obj\Debug\net6.0\pjemc.csproj.CoreCompileInputs.cache
+C:\Users\55819\source\repos\pjemc\pjemc\obj\Debug\net6.0\pjemc.dll
+C:\Users\55819\source\repos\pjemc\pjemc\obj\Debug\net6.0\ref\pjemc.dll
+C:\Users\55819\source\repos\pjemc\pjemc\obj\Debug\net6.0\pjemc.pdb
+C:\Users\55819\source\repos\pjemc\pjemc\obj\Debug\net6.0\pjemc.genruntimeconfig.cache
